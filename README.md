@@ -1,10 +1,33 @@
-<img width=100% src="./assets/images/headerreadme.jpg"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6d080c&height=180&section=header"/>
 
-<img width=5% src="https://www.androidsis.com/wp-content/uploads/2019/08/stranger.gif"/> # Projeto Construindo uma Landing Page no Mundo Invertido
-Neste incrível projeto disponibilizado pela Dio para os participantes do Bootcamp Ri Happy - Front-end do Zero, a principal ideia era aprendermos mais sobre HTML, CSS e JavaScript na prática e fixarmos ainda mais diversos conceitos vistos durante o curso. Também era opcional que cada aluno acrescentasse em seu projeto o seu "próprio toque". Sendo assim, fiz algumas melhorias que vi necessidade durante o desenvolvimento, tanto em questões estéticas quanto de funcionamento.
+ #  Projeto Construindo uma Landing Page no Mundo Invertido <img width=5% src="./assets/images/demogorgon (1).gif"/>
+Neste incrível projeto, disponibilizado pela Dio para os participantes do Bootcamp Ri Happy - Front-end do Zero, o principal objetivo foi aprender mais sobre HTML, CSS e JavaScript na prática, além de reforçar diversos conceitos abordados durante o curso. A ideia principal é que, ao clicar no botão "Invertido", a página seja totalmente transformada para o Mundo Invertido da série Stranger Things, tornando a experiência ainda mais divertida!
 
+### ⚠️ Principais assuntos trabalhados:
 
-### 📋O que foi necessário para realizar este projeto
+- Estruturação da página
+
+- Semântica
+
+- Acessibilidade
+
+- SEO
+
+- Web Scraping
+
+- Posicionamentos
+
+- Pseudo-elementos
+
+- Pseudo-classes
+
+- Flexbox
+
+- Animações
+
+- Introdução ao JavaScript
+
+### 📋O que foi necessário para realizar este projeto:
 
 O projeto consistiu em configurar e executar um ambiente de desenvolvimento utilizando ferramentas essenciais. Primeiramente, foi necessário instalar o Git para o controle de versões.
 
@@ -24,4 +47,4 @@ Abaixo, deixarei alguns links para downloads oficiais de tudo o que foi utilizad
 ### 🪄Link do Projeto
 Clique [aqui](https://jheniffermoraes.github.io/mundo-invertido-projeto/) e acesse o projeto!
 
-<img width=100% src="./assets/images/footerreadme.jpg"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6d080c&height=100&section=footer"/>
