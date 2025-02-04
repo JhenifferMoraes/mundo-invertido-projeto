@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6d080c&height=180&section=header"/>
 
  #  Projeto Construindo uma Landing Page no Mundo Invertido <img width=5% src="./assets/images/demogorgon (1).gif"/>
-Neste incrível projeto, disponibilizado pela Dio para os participantes do Bootcamp Ri Happy - Front-end do Zero, o principal objetivo foi aprender mais sobre HTML, CSS e JavaScript na prática, além de reforçar diversos conceitos abordados durante o curso. A ideia principal é que, ao clicar no botão "Invertido", a página seja totalmente transformada para o Mundo Invertido da série Stranger Things, tornando a experiência ainda mais divertida!
+Neste projeto envolvente, disponibilizado pela DIO para os participantes do Bootcamp Ri Happy - Front-end do Zero, o principal objetivo foi aprimorar os conhecimentos em HTML, CSS e JavaScript na prática, além de reforçar diversos conceitos abordados ao longo do curso. A proposta central era criar uma experiência interativa, onde, ao clicar no botão "Invertido", a página se transformaria completamente no Mundo Invertido da série Stranger Things, com mudanças visuais e sonoras que tornam a navegação ainda mais imersiva e divertida!
 
 ### ⚠️ Principais assuntos trabalhados:
 
